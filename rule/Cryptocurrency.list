@@ -104,6 +104,7 @@ HOST-SUFFIX,okex.com,Cryptocurrency
 HOST-SUFFIX,okx.com,Cryptocurrency
 PROCESS-NAME,OKX.exe,Cryptocurrency
 DOMAIN-KEYWORD,okx,Cryptocurrency
+DOMAIN-KEYWORD,coinall,Cryptocurrency
 
 # > asproex
 HOST-SUFFIX,asproex.com,Cryptocurrency
