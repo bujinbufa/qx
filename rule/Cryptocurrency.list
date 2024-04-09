@@ -137,21 +137,21 @@ HOST-SUFFIX,solsea.io,Cryptocurrency
 HOST-SUFFIX,ledger.com,Cryptocurrency
 
 #OKX
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,oklink.com
-DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com,Cryptocurrency
+DOMAIN-SUFFIX,oklink.com,Cryptocurrency
+DOMAIN-SUFFIX,okx.com,Cryptocurrency
 
 #Binance
-DOMAIN-SUFFIX,appsflayer.com
-DOMAIN-SUFFIX,binance.cloud
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.me
-DOMAIN-SUFFIX,binancecnt.com
-DOMAIN-SUFFIX,binancefuture.com
-DOMAIN-SUFFIX,bnappzh.co
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,bnbzh.ac
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,saasexch.cc
-DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,appsflayer.com,Cryptocurrency
+DOMAIN-SUFFIX,binance.cloud,Cryptocurrency
+DOMAIN-SUFFIX,binance.com,Cryptocurrency
+DOMAIN-SUFFIX,binance.me,Cryptocurrency
+DOMAIN-SUFFIX,binancecnt.com,Cryptocurrency
+DOMAIN-SUFFIX,binancefuture.com,Cryptocurrency
+DOMAIN-SUFFIX,bnappzh.co,Cryptocurrency
+DOMAIN-SUFFIX,bnbstatic.com,Cryptocurrency
+DOMAIN-SUFFIX,bnbzh.ac,Cryptocurrency
+DOMAIN-SUFFIX,bntrace.com,Cryptocurrency
+DOMAIN-SUFFIX,saasexch.cc,Cryptocurrency
+DOMAIN-SUFFIX,saasexch.com,Cryptocurrency
 
