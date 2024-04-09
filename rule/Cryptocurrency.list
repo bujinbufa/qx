@@ -74,7 +74,7 @@ HOST-SUFFIX,bnappzh.mobi,Cryptocurrency
 HOST-SUFFIX,bsc.getblock.io,Cryptocurrency
 HOST-SUFFIX,bscscan.com,Cryptocurrency
 PROCESS-NAME,Binance.exe,Cryptocurrency
-DOMAIN-KEYWORD,binance,Cryptocurrency
+HOST-KEYWORD,binance,Cryptocurrency
 
 # > Huobi
 HOST-SUFFIX,hbabit.com,Cryptocurrency
