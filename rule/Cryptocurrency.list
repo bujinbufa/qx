@@ -73,7 +73,6 @@ HOST-SUFFIX,binancezh.top,Cryptocurrency
 HOST-SUFFIX,bnappzh.mobi,Cryptocurrency
 HOST-SUFFIX,bsc.getblock.io,Cryptocurrency
 HOST-SUFFIX,bscscan.com,Cryptocurrency
-PROCESS-NAME,Binance.exe,Cryptocurrency
 HOST-KEYWORD,binance,Cryptocurrency
 
 # > Huobi
@@ -96,13 +95,11 @@ HOST-SUFFIX,huobi.ws,Cryptocurrency
 HOST-SUFFIX,huobi.ug,Cryptocurrency
 HOST-SUFFIX,huobi.co.ma,Cryptocurrency
 HOST-SUFFIX,huobi.br.com,Cryptocurrency
-PROCESS-NAME,Huobi.exe,Cryptocurrency
 DOMAIN-KEYWORD,huobi,Cryptocurrency
 
 # > OKX
 HOST-SUFFIX,okex.com,Cryptocurrency
 HOST-SUFFIX,okx.com,Cryptocurrency
-PROCESS-NAME,OKX.exe,Cryptocurrency
 DOMAIN-KEYWORD,okx,Cryptocurrency
 DOMAIN-KEYWORD,coinall,Cryptocurrency
 DOMAIN,sentry.coinall.ltd,Cryptocurrency
